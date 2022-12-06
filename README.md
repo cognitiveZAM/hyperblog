@@ -7,6 +7,7 @@
 * Los comandos de GIT
 * Flujo de trabajo
 * Buenas prácticas
-*creado por el el team plaztzi de freedy
+* creado por el el team plaztzi de freedy
+* Incluye ejemplos en windows, linux y mac
 
 This README.md **it's a joke**

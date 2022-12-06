@@ -7,6 +7,6 @@
 * Los comandos de GIT
 * Flujo de trabajo
 * Buenas prácticas
-*creado por el el team plaztzi de freedy
+* creado por el el team plaztzi de freedy
 
 This README.md **it's a joke**

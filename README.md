@@ -8,7 +8,10 @@
 * Flujo de trabajo
 * Buenas prácticas
 * creado por el el team plaztzi de freedy
+<<<<<<< HEAD
 * Incluye ejemplos en windows, linux y mac
 * Disponible para todas las edades
+=======
+>>>>>>> d767a959a9d2708eff17460066580ffc78de2f3a
 
 This README.md **it's a joke**
